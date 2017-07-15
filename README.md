@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title>Matting and cutting</title>
-
 <head>
 <!--<meta charset="UTF-8">-->
 <meta name="keywords" content="frame,mat,print,Lightroom,GIMP">

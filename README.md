@@ -41,7 +41,7 @@
 <img style="margin-left: 100px;" width="400" src="mogrify.png" />
 </left>
 
-<p>I also wrote <a href="https://drive.google.com/uc?id=0B2HqsMfLrhkgbXU0VW5yUkctOWs" target="_blank">a simple plugin for GIMP</a> that can be accessed via Image->Add Print Borders.</p>
+<p>I also wrote <a href="print_borders.py" target="_blank">a simple plugin for GIMP</a> that can be accessed via <i>Image->Add Print Borders</i>.</p>
 
 <left>
 <img style="margin-left: 100px;" width="400" src="gimp.png" />

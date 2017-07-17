@@ -13,19 +13,19 @@
 <p>There are two ways of matting a picture. The first one when you have a picture and cut a mat to exactly fit the picture. The second one, when you already have a pre-cut mat or a frame, and want to fit a picture into it. In the second case the mat may not have the exactly the same size or aspect ratio as the picture. So you will have to crop it. The question is how much of your precious image you are willing to sacrifice? For instance, if your mat cut off area is 10 ?”x15 ?” it is perfect for 11”x16” prints with a ?” border. If nobody prints 11”x16” in your neighborhood the only choice is s 12”x18” with a massive cropping in both directions.</p>
 
 <left>
-<img style="margin-left: 100px;" width="700" src="https://drive.google.com/uc?id=0B2HqsMfLrhkgQV9xVURxVzZBZW8" />
+<img style="margin-left: 100px;" width="700" src="before.png" />
 </left>
 
 <p>Obviously the cropping may be minimized by adding a border around the image.</p>
 
 <left>
-<img style="margin-left: 100px;" width="700" src="https://drive.google.com/uc?id=0B2HqsMfLrhkgZlI2MU1HSUh5R3c" />
+<img style="margin-left: 100px;" width="700" src="after.png" />
 </left>
 
 <p>It is an easy math to figure out the border width in inches (or millimeters), but the border must be added in a software. Thus you must convert inches to pixels depending on the picture dimensions. This is not a rocket science as well, but takes slightly longer. If you are preparing a number of pictures of different size, the repeating calculations may become annoying. I automated the calculation with <a href="https://drive.google.com/uc?id=0B2HqsMfLrhkgdGtiMTJpMTUtelk" target="_blank">an Excel spreadsheet</a>. The cells in the sheet are self-explanatory, but perhaps it is too much information there. I put there everything in case if I need to do some troubleshooting. You may disregard most of that data. All you need is column B.</p>
 
 <left>
-<img style="margin-left: 100px;" width="200" src="https://drive.google.com/uc?id=0B2HqsMfLrhkgVXo1RnZqOEVnUlk" />
+<img style="margin-left: 100px;" width="200" src="excel.png" />
 </left>
 
 <p>The workflow is:</p>
@@ -38,13 +38,13 @@
 <p>What you are going to do with these numbers depends on the software you use. There are a number of framing plugins for LightRoom (I use L/R Mogrify 2).</p>
 
 <left>
-<img style="margin-left: 100px;" width="400" src="https://drive.google.com/uc?id=0B2HqsMfLrhkgZGNPVHQzWV9PZzQ" />
+<img style="margin-left: 100px;" width="400" src="mogrify.png" />
 </left>
 
 <p>I also wrote <a href="https://drive.google.com/uc?id=0B2HqsMfLrhkgbXU0VW5yUkctOWs" target="_blank">a simple plugin for GIMP</a> that can be accessed via Image->Add Print Borders.</p>
 
 <left>
-<img style="margin-left: 100px;" width="400" src="https://drive.google.com/uc?id=0B2HqsMfLrhkgM1J0X3F6aE4xV1U" />
+<img style="margin-left: 100px;" width="400" src="gimp.png" />
 </left>
 
 <body/>

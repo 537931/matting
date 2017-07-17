@@ -34,8 +34,8 @@
 3.	Enter your image dimensions to B5 and B6<br>
 4.	From B8 take the number of pixels to add on left and right<br>
 5.	From B9 take the number of pixels to add on top and bottom<br>
-
-<p>What you are going to do with these numbers depends on the software you use. There are a number of framing plugins for LightRoom (I use L/R Mogrify 2).</p>
+<br>
+<p>What you are going to do with these numbers depends on the software you use. There are a number of framing plugins for Lightroom (I use L/R Mogrify 2).</p>
 
 <left>
 <img style="margin-left: 100px;" width="400" src="mogrify.png" />

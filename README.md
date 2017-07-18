@@ -10,7 +10,7 @@
 
 <h1>Matting and cutting</h1>
 
-<p>There are two ways of matting a picture. The first one when you have a picture and cut a mat to exactly fit the picture. The second one, when you already have a pre-cut mat or a frame, and want to fit a picture into it. In the second case the mat may not have the exactly the same size or aspect ratio as the picture. So you will have to crop it. The question is how much of your precious image you are willing to sacrifice? For instance, if your mat cut off area is 10 ?”x15 ?” it is perfect for 11”x16” prints with a ?” border. If nobody prints 11”x16” in your neighborhood the only choice is s 12”x18” with a massive cropping in both directions.</p>
+<p>There are two ways of matting a picture. The first one when you have a picture and cut a mat to exactly fit the picture. The second one, when you already have a pre-cut mat or a frame, and want to fit a picture into it. In the second case the mat may not have the exactly the same size or aspect ratio as the picture. So you will have to crop it. The question is how much of your precious image you are willing to sacrifice? For instance, if your mat cut off area is 10 &#189;&quot;x15 &#189;&quot; it is perfect for 11&quot;x16&quot; prints with a &#188;&quot; border. If nobody prints 11&quot;x16&quot; in your neighborhood the only choice is s 12&quot;x18&quot; with a massive cropping in both directions.</p>
 
 <left>
 <img style="margin-left: 100px;" width="700" src="before.png" />

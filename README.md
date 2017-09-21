@@ -28,20 +28,21 @@
 <img style="margin-left: 100px;" width="200" src="excel.png" />
 </left>
 
-<p>The workflow is:</p>
-1.	Enter the print dimensions to B1 and B2<br>
-2.	Enter the cut out (window) dimensions to B3 and B4<br>
-3.	Enter your image dimensions to B5 and B6<br>
-4.	From B8 take the number of pixels to add on left and right<br>
-5.	From B9 take the number of pixels to add on top and bottom<br>
-<br>
+The workflow is:
+<ol>
+<li>Enter the print dimensions to B1 and B2</li>
+<li>Enter the cut out (window) dimensions to B3 and B4</li>
+<li>Enter your image dimensions to B5 and B6</li>
+<li>From B8 take the number of pixels to add on left and right</li>
+<li>From B9 take the number of pixels to add on top and bottom</li>
+</ol>
 <p>What you are going to do with these numbers depends on the software you use. There are a number of framing plugins for Lightroom (I use L/R Mogrify 2).</p>
 
 <left>
 <img style="margin-left: 100px;" width="400" src="mogrify.png" />
 </left>
 
-<p>I also wrote <a href="print_borders.py">a simple plugin for GIMP</a> that can be accessed via <i>Image->Add Print Borders</i>.</p>
+<p>I also wrote <a href="print-borders.py">a simple plugin for GIMP</a> that can be accessed via <i>Image->Add Print Borders</i>.</p>
 
 <left>
 <img style="margin-left: 100px;" width="400" src="gimp.png" />

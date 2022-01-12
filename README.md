@@ -3,7 +3,7 @@
 <head>
 <!--<meta charset="UTF-8">-->
 <meta name="keywords" content="frame,mat,print,Lightroom,GIMP">
-<meta name="author" content="Serge Yuschenko">
+<meta name="author" content="537931">
 </head>
 
 <body>
